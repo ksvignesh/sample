@@ -1,1 +1,1 @@
-echo "This is test project"
+echo "This is test project - edit 1"
